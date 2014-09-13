@@ -1,7 +1,6 @@
-RhinoRift
-(Oculus Rift DK1/2 + Rhino + Grasshopper + OpenTrack)
-
+**RhinoRift**
 =========
+**(Oculus Rift DK1/2 + Rhino + Grasshopper + OpenTrack)**
 
 1) Download these files (also attached below):
 
