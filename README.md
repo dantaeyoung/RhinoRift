@@ -4,7 +4,7 @@
 
 1) Download these files (also attached below):
 
-2) Run OpenTrack binary - working version in OpenTrackBinary folder.
+2) Run OpenTrack binary - working version in OpenTrackBinary folder, or download from https://github.com/opentrack/opentrack.
 
 3) In OpenTrack, load the 'OpenTrackRiftGrasshopperUDP.ini' profile. Click the 'Start' button and move your Rift around - make sure that it looks like the Yaw/Pitch/Roll data is being sent. 
 
